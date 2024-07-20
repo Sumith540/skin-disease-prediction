@@ -1,6 +1,6 @@
 # Infinity SknCure
 
-<p align="center"><img src="https://github.com/ishubham21/infinity-skncure/blob/master/imgs/logo.png"></p>
+<p align="center"><img src="https://github.com/Sumith540/infinity-skncure/blob/master/imgs/logo.png"></p>
 
 A very recent [report](https://www.who.int/neglected_diseases/news/WHO-publishes-pictorial-training-guide-on-neglected-skin-disease/en/) by World Health Organization(WHO) shows that skin diseases are among the most common of all human health afflictions and affect almost 900 million people in the world at any time. Five common conditions account for over 80% of all skin diseases.
 
@@ -16,7 +16,7 @@ We've also included a feature of global chat within this application to help the
 
 # Get Started Here
 
-You can use this link to navigate through the website- [Infinity SknCure Website](https://ishubham21.github.io/infinity-skncure) 
+You can use this link to navigate through the website- [Infinity SknCure Website](https://Sumith540.github.io/infinity-skncure) 
 
 ## Want to use the Progressive Web App?
 
